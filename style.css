@@ -218,7 +218,7 @@ input#img-5:checked ~ .nav-dots label#img-dot-5, {
 	background: rgba(0, 0, 0, 0.8);
 }
 
-@media screen and (max-width:350px){
+@media screen and (max-width:500px){
     .nav{
         visibility: hidden;
     }
