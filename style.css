@@ -226,7 +226,7 @@ input#img-5:checked ~ .nav-dots label#img-dot-5, {
         width: 100%;
 	}
 	.slide>img {
-		width: auto;
+		width: 200px;
 		height: 100%;
 	}
 }
