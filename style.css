@@ -102,7 +102,11 @@ body{
 .background{
 	display: inline;
 }
-
+.container{
+	background-color: #ffffff85;
+	padding-left: 10px;
+	border-radius: 5% 5% 0% 0%;
+}
 
 @media screen and (max-width:350px){
     .nav{
