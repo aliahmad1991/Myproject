@@ -224,5 +224,9 @@ input#img-5:checked ~ .nav-dots label#img-dot-5, {
     }
     .a{
         width: 100%;
-    }
+	}
+	.slide img {
+		width: auto;
+		height: 100%;
+	}
 }
